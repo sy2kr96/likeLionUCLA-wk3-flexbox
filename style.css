@@ -1,0 +1,27 @@
+.container{
+  width: 100%;
+  /*border: 1px #000 solid;*/
+}
+.box {
+}
+.red {
+  background-color:red;
+}
+.orange {
+  background-color:orange;
+}
+.yellow {
+  background-color:yellow;
+}
+.green {
+  background-color:green;
+}
+.light-blue {
+  background-color:lightblue;
+}
+.blue {
+  background-color:blue;
+}
+.purple {
+  background-color:purple;
+}
